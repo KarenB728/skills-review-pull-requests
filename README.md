@@ -9,7 +9,7 @@
 
 # Review pull requests
 
-_Collaborate and work together on GitHub._
+_Collaborate and work together on GitHub._  
 
 </header>
 
@@ -17,6 +17,8 @@ _Collaborate and work together on GitHub._
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
 -->
+<<< Karen added >>>
+<!--  
 
 ## Finish
 
