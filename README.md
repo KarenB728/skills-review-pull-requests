@@ -16,7 +16,9 @@ _Collaborate and work together on GitHub._
 <!--
   <<< Author notes: Step 6 >>>
   Start this step by acknowledging the previous step.
+
   Try again
+
 -->
 
 ## Step 6: Merge your pull request
